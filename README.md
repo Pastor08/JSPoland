@@ -1,17 +1,15 @@
-# Portfolio Site 
+# JSPoland Site 
 
 ## General info 
 
-It was a project for learning programming, which showed a version of the portfolio with a tiled look in windows 8 
+It was a project for learning programming about some tutorial
 
 ## Technologies 
 
 Project was created with: 
 * HTML 
-* CSS 
-* JavaScript - timer 
-* Fontello - some fonts 
+* JavaScript 
 
 ## Setup
 
-To run this project click link: [ https://spastuszka.github.io/portfolio/](https://spastuszka.github.io/portfolio/)
+To run this project click link: [ https://spastuszka.github.io/JSPoland/](https://spastuszka.github.io/JSPoland/)
